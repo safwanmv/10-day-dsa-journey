@@ -7,4 +7,4 @@ Solving DSA problems daily from LeetCode as part of my 10-day challenge
 |-----|------------------------------------|-----------------------------------------------------------------------------|
 | 1   | Reverse Array                      | [Code](./Day01_Reverse_Array/reverse_array.java)                            |
 | 2   | Two Sum                            | [Code](./Day02_Two_Sum/twoSum.js)                                           |
-| 3   | Best Time to Buy and Sell Stock    | [Code](./Day03_ Best Time to Buy and Sell Stock/stock.js)                   |
+| 3   | Best Time to Buy and Sell Stock    | [Code](./Day03_Best_Time_to_Buy_and_Sell_Stock/stock.js)                    |
