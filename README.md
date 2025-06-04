@@ -11,4 +11,4 @@ Solving DSA problems daily from LeetCode as part of my 10-day challenge
 | 4   | Valid Parentheses                  | [Code](./Day04_Valid_Parentheses/validParentheses.js)                       |
 | 5   | Remove Duplicates from Sorted Array| [Code](Day05_Remove_Duplicates/removeDuplicates.js)                         |
 | 6   | Missing Number                     | [Code](Day06_Missing_Number/missingNumber.js)                               |
-
+| 7   | Merge Two Sorted Linked Lists      | [Code](Day07_Merge_Two_Sorted_Lists/mergeTwoSortedList.js)                  |
